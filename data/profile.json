@@ -1,0 +1,76 @@
+{
+  "name": "Ana Paula Rodrigues",
+  "photo": "/assets/img/foto-mulher.png",
+  "job": "Junior Full Stack Developer",
+  "location": "Criciúma - SC",
+  "phone": "(48) 91234-5678",
+  "email": "ana.paula.rodrigues@example.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/php.png"
+      },
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+      },
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "Mongodb",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
+      },
+      {
+        "name": "Postgresql",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português Nativo",
+    "Inglês (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "CRUD para Cadastro",
+      "url": "https://github.com",
+      "github": true
+    },
+    {
+      "name": "Página de portfolio",
+      "url": "https://github.com",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Analista de Faturamento / Transportadora XYZ",
+      "period": "2022 - 2023",
+      "description": "Responsável pela emissão e controle de notas fiscais, garantindo conformidade com as regulamentações fiscais. Implementou melhorias no processo de faturamento, reduzindo erros em 20%. Colaborou com a equipe de TI para automatizar processos de faturamento, resultando em uma economia de tempo de 15%."
+    },
+    {
+      "name": "Assistente de Faturamento / Transportadora ABC",
+      "period": "2019 - 2022",
+      "description": "Auxiliou na preparação e envio de faturas para clientes. Gerenciou registros e arquivamento de documentos fiscais. Prestou suporte ao departamento financeiro em atividades de fechamento mensal."
+    },
+    {
+      "name": "Estagiária de Faturamento / Transportadora DEF",
+      "period": "2016 - 2019",
+      "description": "Auxiliou na emissão e conferência de notas fiscais. Realizou consultas e correções em bases de dados de clientes e fornecedores. Apoiou a equipe de faturamento em tarefas administrativas diárias."
+    }
+  ]
+}
